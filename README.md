@@ -35,8 +35,8 @@ I recently graduated from Full Sail University with a Bachelors in Game Developm
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
                     </a></p>
-### Projects
 
+### Projects
 - SoleSurvivor: https://github.com/ChristianRomo37/TheHungrySwansProduction (UNITY)
 - GalacticAttackers: https://github.com/FSProjectPortfolioIV/dev4-team-project-2310-team-green-2310 (DIRECTX11)
 - JustaSimpleFarmingGame: https://drive.google.com/drive/u/0/folders/1993zhopiu2zxl3VwdUUDvR_g4x1e8kWL (UNREAL)
