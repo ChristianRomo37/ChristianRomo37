@@ -1,5 +1,6 @@
 ## Hi there 👋 my name is Christian Romo and I'm a graduate from Full Sail University
 # Game Developer
+## About Me
 I recently graduated from Full Sail University with a Bachelors in Game Development and have 2 years of coding experience. I'm experinced in Unity and Unreal and look foward to doing many more projects. Currently I'm working on a solo project in Unity and a team project in Unreal. When I'm not working on either project I'm playing games or enjoying my time rock climbing. 
 - I'm currently based in WinterPark, Fl
 - Best way to contack me is christian.workuse@gmail.com
