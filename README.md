@@ -1,7 +1,7 @@
 ## Hi there 👋 my name is Christian Romo and I'm a graduate from Full Sail University
-# Game Developer
+# Game Developer/Data Analyst
 ## About Me
-I recently graduated from Full Sail University with a Bachelors in Game Development and have 2 years of coding experience. I'm experinced in Unity and Unreal and look foward to doing many more projects. Currently I'm working on a solo project in Unity and a team project in Unreal. When I'm not working on either project I'm playing games or enjoying my time rock climbing. 
+I graduated from Full Sail University with a Bachelors in Game Development and have 2 years of coding experience. Along with that experience I've also completed Coursera's Online course for "Google Data Analytics". I'm experienced in Unity, Unreal, Big Query, Visual Studio and Microsoft Excel. and look forward to doing many more projects. Currently I have no projects in the work but I'm looking to do case studies whenever I find the time. When I'm not working I'm playing games or enjoying my time rock climbing. 
 - I'm currently based in WinterPark, Fl
 - Best way to contack me is christian.workuse@gmail.com
 - If you care to look at my resume here is the most up to date version [ChristianRomoResume.pdf](https://github.com/user-attachments/files/15667510/ChristianRomoResume.pdf)
