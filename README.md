@@ -39,7 +39,7 @@ I graduated from Full Sail University with a Bachelors in Game Development and h
                     </picture>
                     </a></p>
 
-### Projects
+### Game Developer Projects
 - SoleSurvivor: https://github.com/ChristianRomo37/TheHungrySwansProduction (UNITY)
 - GalacticAttackers: https://github.com/FSProjectPortfolioIV/dev4-team-project-2310-team-green-2310 (DIRECTX11)
 - JustaSimpleFarmingGame: https://drive.google.com/drive/u/0/folders/1993zhopiu2zxl3VwdUUDvR_g4x1e8kWL (UNREAL)
@@ -48,6 +48,9 @@ I graduated from Full Sail University with a Bachelors in Game Development and h
 - Knight Rush: installer is available through link below 
 
 - If you wish to install these projects and play them for yourselves then feel free to use this link provided - https://drive.google.com/drive/folders/1F9UAKDY_MuoE-3r1RxElIhSLNVZhVgGC?usp=sharing
+
+### Data Analytics Case Studies
+- https://github.com/ChristianRomo37/Case-Studies
 <!--
 **ChristianRomo37/ChristianRomo37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
